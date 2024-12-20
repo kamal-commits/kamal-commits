@@ -1,16 +1,115 @@
-## Hi there 👋
+# Hi there, I'm Kamal! 👋
 
-<!--
-**kamal-commits/kamal-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/kamal-commits)  
+![GitHub followers](https://img.shields.io/github/followers/kamal-commits?label=Follow&style=social)  
+![Twitter Follow](https://img.shields.io/twitter/follow/kamal-commits?style=social)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 **Currently Learning:** Advanced React, TypeScript, and system design.
+- 💼 **Profession:** Software Developer specializing in full-stack web development.
+- 💬 **Ask Me About:** JavaScript, Python, TypeScript, and cloud technologies.
+- 🌐 **Portfolio:** [kamal-portfolio.dev](https://kamal-portfolio.dev)
+- 📧 **Contact Me:** [kamal@example.com](mailto:kamal@example.com)
+- 😄 **Pronouns:** They/Them
+- ⚡ **Fun Fact:** I'm an avid hiker and a photography enthusiast who loves capturing landscapes.
+
+---
+
+## 🛠️ Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Tools and Platforms
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamal-commits&show_icons=true&theme=radical" alt="Kamal's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal-commits&theme=radical" alt="Kamal's GitHub Streak" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-commits&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kamal-commits&theme=radical&margin-w=15&margin-h=15)
+
+---
+
+## 🌟 Featured Projects
+
+### [Project Name 1](https://github.com/kamal-commits/project-repo)
+![Repo Size](https://img.shields.io/github/repo-size/kamal-commits/project-repo)  
+![Issues](https://img.shields.io/github/issues/kamal-commits/project-repo)  
+![Pull Requests](https://img.shields.io/github/issues-pr/kamal-commits/project-repo)  
+**Description:** A web application that solves [problem/feature]. Built with React, TypeScript, and Node.js.
+
+### [Project Name 2](https://github.com/kamal-commits/another-project-repo)
+![Repo Size](https://img.shields.io/github/repo-size/kamal-commits/another-project-repo)  
+![Issues](https://img.shields.io/github/issues/kamal-commits/another-project-repo)  
+![Pull Requests](https://img.shields.io/github/issues-pr/kamal-commits/another-project-repo)  
+**Description:** A scalable microservice for [use case]. Developed using Python, Django, and AWS.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-commits)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kamal-commits)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://kamal-portfolio.dev)
+
+---
+
+## 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   20 hrs  ██████████████████   65%
+React         8 hrs  ████████░░░░░░░░░░   30%
+Other         2 hrs  ██░░░░░░░░░░░░░░░░    5%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤖 Automations
+
+- **Dynamic Stats Update:** GitHub Actions automatically refresh stats and contributions daily.
+- **Code Time Tracker:** Weekly coding stats are powered by [Wakatime](https://wakatime.com).
+- **Profile Views:** Powered by [arturio.dev](https://arturio.dev).
+
+---
+
+### 📝 Tips
+
+For optimal results, ensure the following:
+1. Use [GitHub Actions](https://docs.github.com/en/actions) to automate dynamic sections like WakaTime and GitHub stats.
+2. Customize badges with tools like [Shields.io](https://shields.io/).
+3. Showcase significant projects with relevant stats and technologies.
+
+---
+
+**Thanks for visiting my profile! Let's connect and build awesome things together. 🚀**
