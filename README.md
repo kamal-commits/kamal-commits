@@ -1,6 +1,6 @@
 # Hi there, I'm Kamal! 👋
 
-![Profile views](https://gpvc.arturio.dev/kamal-commits)  
+![Profile views](https://www.kamalsha.com)  
 ![GitHub followers](https://img.shields.io/github/followers/kamal-commits?label=Follow&style=social)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/kamal-commits?style=social)
 
@@ -57,23 +57,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kamal-commits&theme=radical&margin-w=15&margin-h=15)
 
----
-
-## 🌟 Featured Projects
-
-### [Project Name 1](https://github.com/kamal-commits/project-repo)
-![Repo Size](https://img.shields.io/github/repo-size/kamal-commits/project-repo)  
-![Issues](https://img.shields.io/github/issues/kamal-commits/project-repo)  
-![Pull Requests](https://img.shields.io/github/issues-pr/kamal-commits/project-repo)  
-**Description:** A web application that solves [problem/feature]. Built with React, TypeScript, and Node.js.
-
-### [Project Name 2](https://github.com/kamal-commits/another-project-repo)
-![Repo Size](https://img.shields.io/github/repo-size/kamal-commits/another-project-repo)  
-![Issues](https://img.shields.io/github/issues/kamal-commits/another-project-repo)  
-![Pull Requests](https://img.shields.io/github/issues-pr/kamal-commits/another-project-repo)  
-**Description:** A scalable microservice for [use case]. Developed using Python, Django, and AWS.
-
----
 
 ## 🌐 Connect with Me
 
@@ -92,16 +75,6 @@ React         8 hrs  ████████░░░░░░░░░░   30
 Other         2 hrs  ██░░░░░░░░░░░░░░░░    5%
 ```
 <!--END_SECTION:waka-->
-
----
-
-## 🤖 Automations
-
-- **Dynamic Stats Update:** GitHub Actions automatically refresh stats and contributions daily.
-- **Code Time Tracker:** Weekly coding stats are powered by [Wakatime](https://wakatime.com).
-- **Profile Views:** Powered by [arturio.dev](https://arturio.dev).
-
----
 
 ### 📝 Tips
 
