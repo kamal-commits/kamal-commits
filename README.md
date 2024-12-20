@@ -10,8 +10,8 @@
 - 🌱 **Currently Learning:** Advanced React, TypeScript, and system design.
 - 💼 **Profession:** Software Developer specializing in full-stack web development.
 - 💬 **Ask Me About:** JavaScript, Python, TypeScript, and cloud technologies.
-- 🌐 **Portfolio:** [kamal-portfolio.dev](https://www.kamalsha.com)
-- 📧 **Contact Me:** [kamal@example.com](mailto:kkamal714@gmail.com)
+- 🌐 **Portfolio:** [kamalsha.com](https://www.kamalsha.com)
+- 📧 **Contact Me:** [kkamal714@gmail.com](mailto:kkamal714@gmail.com)
 - 😄 **Pronouns:** They/Them
 - ⚡ **Fun Fact:** I'm an avid hiker and a photography enthusiast who loves capturing landscapes.
 
