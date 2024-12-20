@@ -1,6 +1,5 @@
 # Hi there, I'm Kamal! 👋
 
-![Profile views](https://www.kamalsha.com)  
 ![GitHub followers](https://img.shields.io/github/followers/kamal-commits?label=Follow&style=social)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/kamal-commits?style=social)
 
