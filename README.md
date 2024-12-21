@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 
-- 🌱 **Currently Learning:** Advanced React, TypeScript, and system design.
+- 🌱 **Currently Learning:** Advanced React, TypeScript, Java, Spring Boot, and system design.
 - 💼 **Profession:** Software Developer specializing in full-stack web development.
-- 💬 **Ask Me About:** JavaScript, Python, TypeScript, and cloud technologies.
+- 💬 **Ask Me About:** JavaScript, Python, TypeScript, Java, Spring Boot, and cloud technologies.
 - 🌐 **Portfolio:** [kamalsha.com](https://www.kamalsha.com)
 - 📧 **Contact Me:** [kkamal714@gmail.com](mailto:kkamal714@gmail.com)
 - 😄 **Pronouns:** They/Them
@@ -23,6 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -30,7 +31,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### Tools and Platforms
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
@@ -56,7 +58,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kamal-commits&theme=radical&margin-w=15&margin-h=15)
 
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-commits)  
@@ -69,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   20 hrs  ██████████████████   65%
-React         8 hrs  ████████░░░░░░░░░░   30%
-Other         2 hrs  ██░░░░░░░░░░░░░░░░    5%
+TypeScript   20 hrs  ████████████████   65%
+React         8 hrs  ██████░░░░░░░░░   30%
+Other         2 hrs  ██░░░░░░░░░░░░░    5%
 ```
 <!--END_SECTION:waka-->
 
-### 📝 Tips
+### 🖋️ Tips
 
 For optimal results, ensure the following:
 1. Use [GitHub Actions](https://docs.github.com/en/actions) to automate dynamic sections like WakaTime and GitHub stats.
@@ -85,3 +86,4 @@ For optimal results, ensure the following:
 ---
 
 **Thanks for visiting my profile! Let's connect and build awesome things together. 🚀**
+
